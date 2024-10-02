@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "nombre": "Natalia",
+    "foto": "img1.jpg",
+    "descripcion": "Un amante del cine de terror busca experiencias intensas y escalofriantes, disfrutando de historias que juegan con el miedo, lo sobrenatural y lo inquietante.",
+    "peliculas": [
+      "66fc39d9d9689fb94b72dce1",
+      "66fc39d9d9689fb94b72dce0"
+    ]
+  },
+
+  {
+    "id": 2,
+    "nombre": "Karen",
+    "foto": "img2.jpg",
+    "descripcion": "Una amante del cine de ciencia ficción disfruta de tramas innovadoras que exploran el futuro, la tecnología y lo desconocido, siempre en busca de nuevas narrativas que estimulen la imaginación.",
+    "peliculas": [
+      "66fc39d9d9689fb94b72dcf0",
+      "66fc39d9d9689fb94b72dcec"
+    ]
+  }
+]

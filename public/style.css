@@ -1,0 +1,38 @@
+.navbar {
+    background-color: brown;
+}
+
+.nav-link {
+    font-size: x-large;
+    color: white;
+}
+
+.titulo {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    text-decoration: underline;
+}
+
+td {
+    font-size: x-large;
+    
+}
+
+.mb-3 {
+    display: flex;
+    margin: auto;
+}
+
+.btn-primary {
+    margin-left: 20px;
+}
+
+.btn-secondary {
+    margin-left: 20px;
+    margin-bottom: 50px;
+}
+
+.table-bordered {
+    margin-top: 20px;
+}

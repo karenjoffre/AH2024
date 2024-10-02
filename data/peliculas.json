@@ -1,0 +1,250 @@
+[
+    {
+        "id": 1,
+        "nombre": "El Conjuro",
+        "sinopsis": "Investigadores paranormales ayudan a una familia atormentada por una presencia oscura.",
+        "categoria": "Terror",
+        "plataformas": "HBO Max, Amazon Prime",
+        "imagen": "/img/el-conjuto.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "La Noche de Halloween",
+        "sinopsis": "Un asesino escapa de un manicomio y regresa a su ciudad natal en busca de venganza.",
+        "categoria": "Terror",
+        "plataformas": "Peacock, Netflix",
+        "imagen": "https://ejemplo.com/imagenes/halloween.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Hereditary",
+        "sinopsis": "Una familia descubre oscuros secretos tras la muerte de su abuela.",
+        "categoria": "Terror",
+        "plataformas": "Amazon Prime, Hulu",
+        "imagen": "https://ejemplo.com/imagenes/hereditary.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "El Exorcista",
+        "sinopsis": "Una madre busca ayuda para su hija poseída por una entidad demoníaca.",
+        "categoria": "Terror",
+        "plataformas": "HBO Max, Apple TV",
+        "imagen": "https://ejemplo.com/imagenes/el-exorcista.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "It",
+        "sinopsis": "Un grupo de amigos enfrenta a un ente maligno que se alimenta del miedo de los niños.",
+        "categoria": "Terror",
+        "plataformas": "HBO Max, Amazon Prime",
+        "imagen": "https://ejemplo.com/imagenes/it.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "La Purga",
+        "sinopsis": "Una noche al año, todos los crímenes son legales, y una familia debe sobrevivir.",
+        "categoria": "Terror",
+        "plataformas": "Hulu, Amazon Prime",
+        "imagen": "https://ejemplo.com/imagenes/la-purga.jpg"
+    },
+    {
+        "id": 7,
+        "nombre": "Superbad",
+        "sinopsis": "Dos amigos intentan disfrutar de su última noche de secundaria antes de graduarse.",
+        "categoria": "Comedia",
+        "plataformas": "Netflix, Amazon Prime",
+        "imagen": "https://ejemplo.com/imagenes/superbad.jpg"
+    },
+    {
+        "id": 8,
+        "nombre": "La Gran Apuesta",
+        "sinopsis": "Un grupo de inversores se benefician del colapso del mercado inmobiliario en 2008.",
+        "categoria": "Comedia",
+        "plataformas": "Hulu, Disney+",
+        "imagen": "https://ejemplo.com/imagenes/la-gran-apuesta.jpg"
+    },
+    {
+        "id": 9,
+        "nombre": "Zombieland",
+        "sinopsis": "Un grupo de sobrevivientes intenta encontrar un lugar seguro en un mundo postapocalíptico lleno de zombis.",
+        "categoria": "Comedia",
+        "plataformas": "Amazon Prime, Netflix",
+        "imagen": "https://ejemplo.com/imagenes/zombieland.jpg"
+    },
+    {
+        "id": 10,
+        "nombre": "Los Cazafantasmas",
+        "sinopsis": "Un grupo de científicos emprende la misión de atrapar fantasmas en Nueva York.",
+        "categoria": "Comedia",
+        "plataformas": "Netflix, HBO Max",
+        "imagen": "https://ejemplo.com/imagenes/cazafantasmas.jpg"
+    },
+    {
+        "id": 11,
+        "nombre": "Jumanji",
+        "sinopsis": "Un juego mágico libera a criaturas y aventuras en el mundo real.",
+        "categoria": "Comedia",
+        "plataformas": "Amazon Prime, Netflix",
+        "imagen": "https://ejemplo.com/imagenes/jumanji.jpg"
+    },
+    {
+        "id": 12,
+        "nombre": "Dodgeball",
+        "sinopsis": "Un grupo de inadaptados compite en un torneo de dodgeball para salvar su gimnasio.",
+        "categoria": "Comedia",
+        "plataformas": "HBO Max, Amazon Prime",
+        "imagen": "https://ejemplo.com/imagenes/dodgeball.jpg"
+    },
+    {
+        "id": 13,
+        "nombre": "Blade Runner 2049",
+        "sinopsis": "Un nuevo blade runner desentierra un secreto que podría sumergir lo que queda de la sociedad en el caos.",
+        "categoria": "Ciencia Ficción",
+        "plataformas": "HBO Max, Amazon Prime",
+        "imagen": "https://ejemplo.com/imagenes/blade-runner-2049.jpg"
+    },
+    {
+        "id": 14,
+        "nombre": "Inception",
+        "sinopsis": "Un ladrón que roba secretos a través de los sueños se enfrenta a una tarea casi imposible.",
+        "categoria": "Ciencia Ficción",
+        "plataformas": "Netflix, Amazon Prime",
+        "imagen": "https://ejemplo.com/imagenes/inception.jpg"
+    },
+    {
+        "id": 15,
+        "nombre": "Interstellar",
+        "sinopsis": "Un grupo de exploradores viaja a través de un agujero de gusano en busca de un nuevo hogar para la humanidad.",
+        "categoria": "Ciencia Ficción",
+        "plataformas": "HBO Max, Amazon Prime",
+        "imagen": "https://ejemplo.com/imagenes/interstellar.jpg"
+    },
+    {
+        "id": 16,
+        "nombre": "Matrix",
+        "sinopsis": "Un hacker descubre la verdad sobre su realidad y se une a una resistencia para luchar contra sus opresores.",
+        "categoria": "Ciencia Ficción",
+        "plataformas": "Netflix, HBO Max",
+        "imagen": "https://ejemplo.com/imagenes/matrix.jpg"
+    },
+    {
+        "id": 17,
+        "nombre": "Gravity",
+        "sinopsis": "Dos astronautas deben luchar por su supervivencia tras un accidente en el espacio.",
+        "categoria": "Ciencia Ficción",
+        "plataformas": "Amazon Prime, HBO Max",
+        "imagen": "https://ejemplo.com/imagenes/gravity.jpg"
+    },
+    {
+        "id": 18,
+        "nombre": "Ex Machina",
+        "sinopsis": "Un programador es seleccionado para participar en un experimento con inteligencia artificial.",
+        "categoria": "Ciencia Ficción",
+        "plataformas": "Amazon Prime, Netflix",
+        "imagen": "https://ejemplo.com/imagenes/ex-machina.jpg"
+    },
+    {
+        "id": 19,
+        "nombre": "Mad Max: Furia en la Carretera",
+        "sinopsis": "En un mundo postapocalíptico, un guerrero solitario se une a un grupo de rebeldes en su lucha por la supervivencia.",
+        "categoria": "Acción",
+        "plataformas": "HBO Max, Amazon Prime",
+        "imagen": "https://ejemplo.com/imagenes/mad-max.jpg"
+    },
+    {
+        "id": 20,
+        "nombre": "John Wick",
+        "sinopsis": "Un exasesino a sueldo busca venganza tras la muerte de su perro, regalo de su difunta esposa.",
+        "categoria": "Acción",
+        "plataformas": "Amazon Prime, Netflix",
+        "imagen": "https://ejemplo.com/imagenes/john-wick.jpg"
+    },
+    {
+        "id": 21,
+        "nombre": "Gladiador",
+        "sinopsis": "Un general romano es traicionado y se convierte en gladiador para vengar la muerte de su familia.",
+        "categoria": "Acción",
+        "plataformas": "HBO Max, Amazon Prime",
+        "imagen": "https://ejemplo.com/imagenes/gladiador.jpg"
+    },
+    {
+        "id": 22,
+        "nombre": "Los Vengadores",
+        "sinopsis": "Un grupo de superhéroes se une para detener a un villano que amenaza la Tierra.",
+        "categoria": "Acción",
+        "plataformas": "Disney+, HBO Max",
+        "imagen": "https://ejemplo.com/imagenes/vengadores.jpg"
+    },
+    {
+        "id": 23,
+        "nombre": "Misión Imposible: Fallout",
+        "sinopsis": "Ethan Hunt y su equipo deben recuperar plutonio robado y enfrentar un nuevo enemigo.",
+        "categoria": "Acción",
+        "plataformas": "Amazon Prime, HBO Max",
+        "imagen": "https://ejemplo.com/imagenes/mision-imposible.jpg"
+    },
+    {
+        "id": 24,
+        "nombre": "Furia de Titanes",
+        "sinopsis": "Perseo se embarca en una misión para derrotar al Kraken y salvar a la humanidad.",
+        "categoria": "Acción",
+        "plataformas": "HBO Max, Amazon Prime",
+        "imagen": "https://ejemplo.com/imagenes/furia-de-titanes.jpg"
+    },
+    {
+        "id": 25,
+        "nombre": "Avatar",
+        "sinopsis": "Un exmarine es enviado a un planeta alienígena donde se une a la lucha de los nativos contra los humanos.",
+        "categoria": "Fantasía",
+        "plataformas": "Disney+, Amazon Prime",
+        "imagen": "https://ejemplo.com/imagenes/avatar.jpg"
+    },
+    {
+        "id": 26,
+        "nombre": "El Señor de los Anillos: La Comunidad del Anillo",
+        "sinopsis": "Un hobbit se une a un grupo de héroes para destruir un anillo maldito.",
+        "categoria": "Fantasía",
+        "plataformas": "Amazon Prime, HBO Max",
+        "imagen": "https://ejemplo.com/imagenes/senor-de-los-anillos.jpg"
+    },
+    {
+        "id": 27,
+        "nombre": "Harry Potter y la Piedra Filosofal",
+        "sinopsis": "Un niño descubre que es un mago y asiste a una escuela de magia.",
+        "categoria": "Fantasía",
+        "plataformas": "HBO Max, Netflix",
+        "imagen": "https://ejemplo.com/imagenes/harry-potter.jpg"
+    },
+    {
+        "id": 28,
+        "nombre": "Pan's Labyrinth",
+        "sinopsis": "Una niña se encuentra con un mundo mágico durante la posguerra española.",
+        "categoria": "Fantasía",
+        "plataformas": "Amazon Prime, HBO Max",
+        "imagen": "https://ejemplo.com/imagenes/pans-labyrinth.jpg"
+    },
+    {
+        "id": 29,
+        "nombre": "El Laberinto del Fauno",
+        "sinopsis": "En la España franquista, una niña se embarca en un viaje en un mundo de fantasía.",
+        "categoria": "Fantasía",
+        "plataformas": "HBO Max, Amazon Prime",
+        "imagen": "https://ejemplo.com/imagenes/laberinto-del-fauno.jpg"
+    },
+    {
+        "id": "30",
+        "nombre": "Actualizado",
+        "sinopsis": "actualizado 2",
+        "categoria": "terror",
+        "plataformas": "hbo",
+        "imagen": ""
+    },
+    {
+        "id": "31",
+        "nombre": "Actualizado"
+    },
+    {
+        "id": "32",
+        "eliminado": true
+    }
+]
